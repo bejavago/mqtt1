@@ -7,7 +7,7 @@ import csv
 from time import sleep
 #from django_intro.plantillal33.models import *
 
-broker = '127.0.0.1'
+broker = '172.31.33.83'
 #broker = '192.168.1.11'
 port1 = 1883
 topic = "api/request"
